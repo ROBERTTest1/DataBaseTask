@@ -8,19 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79cdab3f-bb71-49f0-8800-c7c180da7ce0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatabaseTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatabaseTask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/DatabaseTask.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/DatabaseTask.Data.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseTask.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask.Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseTask/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask/obj/Debug/net8.0/DatabaseTask.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask/obj/Debug/net8.0/DatabaseTask.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask/obj/Debug/net8.0/DatabaseTask.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask/obj/Debug/net8.0/DatabaseTask.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatabaseTask/obj/Debug/net8.0/DatabaseTask.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseTask/obj/Debug/net8.0/DatabaseTask.csproj.AssemblyReference.cache" afterDir="false" />
@@ -101,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724778446895</updated>
       <workItem from="1724778452665" duration="175000" />
-      <workItem from="1748417966030" duration="1026000" />
+      <workItem from="1748417966030" duration="1686000" />
     </task>
     <servers />
   </component>

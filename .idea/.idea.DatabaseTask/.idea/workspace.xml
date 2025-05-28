@@ -30,6 +30,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -98,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724778446895</updated>
       <workItem from="1724778452665" duration="175000" />
-      <workItem from="1748417966030" duration="396000" />
+      <workItem from="1748417966030" duration="1026000" />
     </task>
     <servers />
   </component>

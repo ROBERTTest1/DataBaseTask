@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "dfObGGuUEDQ=",
   "success": true,
-  "projectFilePath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
+  "projectFilePath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
   "expectedPackageFiles": [
     "/Users/rob/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/rob/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

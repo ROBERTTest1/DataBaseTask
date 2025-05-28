@@ -2,8 +2,8 @@
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/appsettings.json
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.staticwebassets.runtime.json
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask
-/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.deps.json
-/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.runtimeconfig.json
+/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.deps.json
+/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.runtimeconfig.json
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.dll
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/DatabaseTask.pdb
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/bin/Debug/net8.0/Azure.Core.dll
@@ -140,9 +140,9 @@
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/scopedcss/bundle/DatabaseTask.styles.css
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/scopedcss/projectbundle/DatabaseTask.bundle.scp.css
-/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/obj/Debug/net8.0/Database.EE27BF29.Up2Date
+/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/Database.EE27BF29.Up2Date
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/DatabaseTask.dll
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/refint/DatabaseTask.dll
 /Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/DatabaseTask.pdb
-/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/obj/Debug/net8.0/DatabaseTask.genruntimeconfig.cache
-/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/obj/Debug/net8.0/ref/DatabaseTask.dll
+/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/DatabaseTask.genruntimeconfig.cache
+/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/Debug/net8.0/ref/DatabaseTask.dll

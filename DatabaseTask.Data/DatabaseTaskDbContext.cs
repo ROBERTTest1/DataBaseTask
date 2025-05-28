@@ -14,5 +14,7 @@ namespace DatabaseTask.Data
         public DbSet<Employee> Employee { get; set; }
         public DbSet<Company> Company { get; set; }
         public DbSet<AnonymousHint> AnonymousHint { get; set; }
+        public DbSet<Request> Request { get; set; }
+        public DbSet<Branch> Branch { get; set; }
     }
 }

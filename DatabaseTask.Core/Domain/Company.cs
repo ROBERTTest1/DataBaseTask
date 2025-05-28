@@ -4,8 +4,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class Company
     {
-        
-        public int CompanyId { get; set; }
+        public int CompanyId { get; set; } // PK
 
         public string CompanyName { get; set; }
         public string RegisterCode { get; set; }

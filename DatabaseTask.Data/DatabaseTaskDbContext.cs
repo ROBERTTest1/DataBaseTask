@@ -20,5 +20,8 @@ namespace DatabaseTask.Data
         public DbSet<LoanableItem> LoanableItem { get; set; }
         public DbSet<IntranetPermission> IntranetPermission { get; set; }
         public DbSet<Kid> Kid { get; set; }
+        public DbSet<Vacation> Vacation { get; set; }
+        public DbSet<HealthCheck> HealthCheck { get; set; }
+        public DbSet<SickLeave> SickLeave { get; set; }
     }
 }

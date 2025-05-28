@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/DatabaseTask.csproj": {}
+    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/DatabaseTask.csproj": {}
   },
   "projects": {
-    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
+    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "projectName": "DatabaseTask.Core",
-        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/obj/",
+        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
+    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
         "projectName": "DatabaseTask.Data",
-        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
+        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/obj/",
+        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -86,8 +86,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
-                "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj"
+              "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
+                "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/DatabaseTask.csproj": {
+    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/DatabaseTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/DatabaseTask.csproj",
         "projectName": "DatabaseTask",
-        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/DatabaseTask.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/obj/",
+        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -171,8 +171,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
-                "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
+              "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
+                "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
               }
             }
           }

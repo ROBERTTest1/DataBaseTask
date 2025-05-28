@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {}
+    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {}
   },
   "projects": {
-    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
+    "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "projectName": "DatabaseTask.Core",
-        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Core/obj/",
+        "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"

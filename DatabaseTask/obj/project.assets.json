@@ -4025,12 +4025,12 @@
     "DatabaseTask.Core/1.0.0": {
       "type": "project",
       "path": "../DatabaseTask.Core/DatabaseTask.Core.csproj",
-      "msbuildProject": "../DatabaseTask.Core/DatabaseTask.Core.csproj"
+      "msbuildProject": "../../DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj"
     },
     "DatabaseTask.Data/1.0.0": {
       "type": "project",
       "path": "../DatabaseTask.Data/DatabaseTask.Data.csproj",
-      "msbuildProject": "../DatabaseTask.Data/DatabaseTask.Data.csproj"
+      "msbuildProject": "../../DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4048,11 +4048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+      "projectUniqueName": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/DatabaseTask.csproj",
       "projectName": "DatabaseTask",
-      "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+      "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/DatabaseTask.csproj",
       "packagesPath": "/Users/rob/.nuget/packages/",
-      "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask/obj/",
+      "outputPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -4068,8 +4068,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
-              "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DatabaseTask/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
+            "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
+              "projectPath": "/Users/rob/Desktop/DEV ROBERT/DataBaseTask/DataBaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
             }
           }
         }

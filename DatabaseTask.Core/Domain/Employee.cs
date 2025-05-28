@@ -5,11 +5,19 @@ namespace DatabaseTask.Core.Domain
 {
     public class Employee
     {
-        [Key]
-        public Guid Id { get; set; }
+        public int EmployeeId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        public DateTime Birthday { get; set; }
+        public string Comments { get; set; }
+        public string PersonalCode { get; set; }
+        public DateTime StartingDate { get; set; }
+        public DateTime? EndDate { get; set; }
+    }
 
+    
         /// ESIMENE HINDELINE HARJUTUS
         /// Nõuded ja tegevus:
         /// 1. Kui tahate, siis võite forkida minu projekti GitHubist ja läbi Sourcetree enda arvutisse tõmmata.
@@ -55,7 +63,7 @@ namespace DatabaseTask.Core.Domain
         //public ICollection<Children> Childrens { get; set; }
         //public List<Children> Childrens { get; set; }
         //public Children Childrens { get; set; }
-    }
+    
 
 
     //public enum Gender

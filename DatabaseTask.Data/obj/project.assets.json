@@ -4010,7 +4010,7 @@
     "DatabaseTask.Core/1.0.0": {
       "type": "project",
       "path": "../DatabaseTask.Core/DatabaseTask.Core.csproj",
-      "msbuildProject": "../DatabaseTask.Core/DatabaseTask.Core.csproj"
+      "msbuildProject": "../../DataBaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {

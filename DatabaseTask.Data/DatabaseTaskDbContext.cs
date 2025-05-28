@@ -13,5 +13,6 @@ namespace DatabaseTask.Data
         // migratsioonid peavad tulema siia libary-sse e TARge20.Data alla.
         public DbSet<Employee> Employee { get; set; }
         public DbSet<Company> Company { get; set; }
+        public DbSet<AnonymousHint> AnonymousHint { get; set; }
     }
 }

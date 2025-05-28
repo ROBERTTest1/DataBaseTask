@@ -1,11 +1,12 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
     public class Employee
     {
+        [Column("employee_id")]
         public int EmployeeId { get; set; } // PK
         public string FirstName { get; set; }
         public string LastName { get; set; }

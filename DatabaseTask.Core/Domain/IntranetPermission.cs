@@ -5,6 +5,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class IntranetPermission
     {
+        [Column("permission_id")]
         public int PermissionId { get; set; } // PK
 
         // FK Employee

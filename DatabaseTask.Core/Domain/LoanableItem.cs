@@ -5,6 +5,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class LoanableItem
     {
+        [Column("loanedItem_id")]
         public int LoanedItemId { get; set; } // PK
 
         public string ItemName { get; set; }

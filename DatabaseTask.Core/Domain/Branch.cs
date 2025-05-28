@@ -4,6 +4,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class Branch
     {
+        [Column("branch_id")]
         public int BranchId { get; set; } // PK
 
         public string BranchName { get; set; }

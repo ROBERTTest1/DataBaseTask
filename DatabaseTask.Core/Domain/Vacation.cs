@@ -4,6 +4,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class Vacation
     {
+        [Column("vacation_id")]
         public int VacationId { get; set; } // PK
 
         // FK Employee

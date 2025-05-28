@@ -5,6 +5,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class Request
     {
+        [Column("request_id")]
         public int RequestId { get; set; } // PK
 
         public string RequestType { get; set; }

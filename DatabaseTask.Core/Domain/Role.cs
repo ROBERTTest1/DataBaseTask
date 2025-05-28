@@ -4,6 +4,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class Role
     {
+        [Column("role_id")]
         public int RoleId { get; set; } // PK
 
         public string RoleName { get; set; }

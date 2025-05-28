@@ -5,6 +5,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class HealthCheck
     {
+        [Column("health_id")]
         public int HealthId { get; set; } // PK
 
         // FK Employee

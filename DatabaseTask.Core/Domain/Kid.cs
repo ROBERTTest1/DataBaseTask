@@ -5,6 +5,7 @@ namespace DatabaseTask.Core.Domain
 {
     public class Kid
     {
+        [Column("kids_id")]
         public int KidsId { get; set; } // PK
 
         // FK Employee

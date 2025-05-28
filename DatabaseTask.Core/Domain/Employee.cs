@@ -6,8 +6,9 @@ namespace DatabaseTask.Core.Domain
 {
     public class Employee
     {
+        [Key]
         [Column("employee_id")]
-        public int EmployeeId { get; set; } // PK
+        public int EmployeeId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }

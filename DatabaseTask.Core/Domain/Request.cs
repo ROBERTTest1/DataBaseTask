@@ -1,10 +1,12 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
     public class Request
     {
+        [Key]
         [Column("request_id")]
         public int RequestId { get; set; } // PK
 

@@ -1,10 +1,12 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
     public class SickLeave
     {
+        [Key]
         [Column("sickLeave_id")]
         public int SickLeaveId { get; set; } // PK
 

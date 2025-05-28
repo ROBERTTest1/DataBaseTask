@@ -1,10 +1,12 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
     public class IntranetPermission
     {
+        [Key]
         [Column("permission_id")]
         public int PermissionId { get; set; } // PK
 

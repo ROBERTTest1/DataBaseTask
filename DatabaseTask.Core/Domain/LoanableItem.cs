@@ -1,10 +1,12 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
     public class LoanableItem
     {
+        [Key]
         [Column("loanedItem_id")]
         public int LoanedItemId { get; set; } // PK
 

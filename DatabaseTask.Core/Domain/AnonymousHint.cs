@@ -1,11 +1,12 @@
    using System;
    using System.ComponentModel.DataAnnotations.Schema;
+   using System.ComponentModel.DataAnnotations;
 
    namespace DatabaseTask.Core.Domain
    {
        public class AnonymousHint
        {
-           [Column("hint_id")]
+           [Key]
            public int HintId { get; set; } // PK
 
            public string HintType { get; set; }
